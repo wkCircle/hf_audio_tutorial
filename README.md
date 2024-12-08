@@ -57,13 +57,14 @@ A[(Input Audio)] --> D(ML Models) --> G(Generated \noutput audio)
 
 
 
+# Articles
+- [Spectral Leakage and Zero-Padding of the Discrete Fourier Transform, DSPIllustrations.com](https://dspillustrations.com/pages/posts/misc/spectral-leakage-zero-padding-and-frequency-resolution.html)
+- [Loss Functions in Audio ML](https://www.soundsandwords.io/audio-loss-functions/)
 
-# Articles and/or Links
+# References
 - [HF Audio Course](https://huggingface.co/learn/audio-course/en/chapter0/introduction):
   It contains from Unit 0 to Unit 8 regarding audio data ETL, various audio related tasks, and model intrudoctions.
-
 - [FAU Prof. Mueller's web](https://www.audiolabs-erlangen.de/fau/professor/mueller)
 - [FAU/Preparation Course Python Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/PCP/PCP.html)
 - [FAU/Fundamental Musci Preprocessing Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 
-- [Loss Functions in Audio ML](https://www.soundsandwords.io/audio-loss-functions/)
