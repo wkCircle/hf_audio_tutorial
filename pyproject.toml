@@ -6,7 +6,7 @@ authors = [
     {name = "Wen-Kai Chung",email = "wkaichungtw@gmail.com"}
 ]
 readme = "README.md"
-requires-python = "^3.12"
+requires-python = ">=3.12"
 dependencies = [
     "transformers (>=4.48.2,<5.0.0)",
     "torch (>=2.6.0,<3.0.0)",
@@ -16,7 +16,10 @@ dependencies = [
     "ipykernel (>=6.29.5,<7.0.0)",
     "datasets (>=3.2.0,<4.0.0)",
     "ipywidgets (>=8.1.5,<9.0.0)",
-    "soundfile (>=0.13.1,<0.14.0)"
+    "soundfile (>=0.13.1,<0.14.0)",
+    "llvmlite (>=0.44.0,<0.45.0)",
+    "librosa (==0.10.1)",
+    "numpy (==2.1.3)"
 ]
 
 
